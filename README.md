@@ -4,10 +4,10 @@
 - 🔭 **I do sample projects to improve myself.**
 
 - 🌱 **I'm currently improving myself**
+  
+- 💬 **Ask me about ReactJs and Javascript Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muratscgn](https://github.com/muratscgn)
-
-- 💬 **Ask me about ReactJs and Javascript Projects**
 
 - 📫 How to reach me **murat.scgn@gmail.com**
 
