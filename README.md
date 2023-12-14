@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Murat Secgin</h1>
 <h3 align="center">My name is Murat. I am React Js and Front End Developer. I continue to develop rapidly.</h3>
 
+- 🔭 **I do sample projects to improve myself.**
+
+- 🌱 **I'm currently improving myself**
+
 - 👨‍💻 All of my projects are available at [https://github.com/muratscgn](https://github.com/muratscgn)
+
+- 💬 **Ask me about ReactJs and Javascript Projects**
 
 - 📫 How to reach me **murat.scgn@gmail.com**
 
